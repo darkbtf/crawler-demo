@@ -1,0 +1,15 @@
+{
+  "name": "crawler-demo",
+  "version": "1.0.0",
+  "description": "a simple hackernews crawler using request and cheerio.",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "request": "^2.53.0"
+  }
+}
